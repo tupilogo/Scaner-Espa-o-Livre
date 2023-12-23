@@ -21,5 +21,5 @@ Implementar uma solução mais prática para gerar um relatório do armazenament
 
 2. Comando para atualizar o arquivo .exe
         
-        pyinstaller --onefile main.py
+        pyinstaller --uac-admin --onefile main.py
 

@@ -69,7 +69,7 @@ def main(hora_final: str, hora_do_meio_dia: str, hora_inicial: str, caminho_da_p
 
 if __name__ == '__main__':
     # Instâncias principais
-    HORA_FINAL = '17:59:00'
+    HORA_FINAL = '17:58:00'
     HORA_MEIO_DIA = '12:01:00'
     HORA_DO_DIA = '07:50:00'
 
